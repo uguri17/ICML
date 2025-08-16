@@ -5,8 +5,8 @@
 
    
 2. 작업<br/>
-   2-1. 사용언어: Python
-   2-2. 개발환경: Anaconda_Jupyter Lab
-   2-3. 라이브러리(NLP): KoNLPy_Okt
-   2-4. 시각화 기법: WordCloud
+   2-1. 사용언어: Python<br/>
+   2-2. 개발환경: Anaconda_Jupyter Lab<br/>
+   2-3. 라이브러리(NLP): KoNLPy_Okt<br/>
+   2-4. 시각화 기법: WordCloud<br/>
    2-5. 분석 알고리즘: LDA

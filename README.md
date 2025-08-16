@@ -4,7 +4,7 @@
 
 
    
-2. 작업
+2. 작업<br/>
    2-1. 사용언어: Python
    2-2. 개발환경: Anaconda_Jupyter Lab
    2-3. 라이브러리(NLP): KoNLPy_Okt

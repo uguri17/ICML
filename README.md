@@ -4,10 +4,15 @@
    1-2. 필요한 컬럼만 체크 후 데이터프레임으로 추출
 
 
-
+   
 2. 작업
+   
    2-1. 사용언어: Python
+   
    2-2. 개발환경: Anaconda_Jupyter Lab
+   
    2-3. 라이브러리(NLP): KoNLPy_Okt
+   
    2-4. 시각화 기법: WordCloud
+   
    2-5. 분석 알고리즘: LDA
